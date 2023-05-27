@@ -39,7 +39,7 @@ import time
 
 
 rpc_url = 'http://testnet.xmrchain.net:28081/json_rpc'
-wallet_address = '9tiLRM5cuFhFazKELdWJNbEqHC8uENobkLaomgufKHpZL3zsPdp9aU2PJJAaKe9RKHRFQaWjrNaaTBduuTooJZga6kT77m1'
+wallet_address = '45yqop57G7EHQNuMqm6TzMhRJnjMvnaw13pT9YuEFRXY6QNmaZMJMN8GfudyBZcvBsjWBRUPH1tfu6mCBLJwjPeAPuhkGeK'
 
 
 def pack_nonce(blob, nonce):
